@@ -134,3 +134,9 @@ exenv() {
 }
 EOS
 fi
+
+IFS=$'\n' scripts=(`exenv-hooks init`)
+IFS="$OLDIFS"
+for script in "${scripts[@]}"; do
+  source "$script"
+done
