@@ -29,6 +29,8 @@ Thanks to @sstephenson and @repeatedly.
       * [3.5 exenv version](#section_3.5)
       * [3.6 exenv rehash](#section_3.6)
       * [3.7 exenv which](#section_3.7)
+      * [3.8 exenv install](#section_3.8)
+      * [3.9 exenv erlang-install](#section_3.9)
    * [4 Development](#section_4)
       * [4.1 Version History](#section_4.1)
       * [4.2 License](#section_4.2)
